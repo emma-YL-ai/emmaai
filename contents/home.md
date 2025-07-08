@@ -7,8 +7,8 @@ I'm currently pursuing research opportunities and hold a PhD in Computer Science
 <code>ziyanai@connect.hku.hk </code>  
 
 #### Education  
-**The University of Hong Kong**, Master of Library and Information Management (Sep 2021 – Dec 2022) <br>
-• Pass with Distinction 
+**The University of Hong Kong**, Master of Library and Information Management (Sep 2021 – Dec 2022) <br> 
+• Pass with Distinction <br> 
 • Modules include Data Science and Learning Analytics, Information Behaviour, Information System Analysis and Development, Leading and Managing in the Workplace 
 
 **Hong Kong Baptist University**, Honours Bachelor of Business Administration in e-Business Management and Information Systems (Sep 2017 – Jul 2021) <br>
