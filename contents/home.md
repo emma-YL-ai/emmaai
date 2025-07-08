@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I'm currently pursuing research opportunities and hold a PhD in Computer Science from The University of Hong Kong.
 
@@ -8,11 +7,11 @@ I'm currently pursuing research opportunities and hold a PhD in Computer Science
 <code>ziyanai@connect.hku.hk </code>  
 
 #### Education  
-**The University of Hong Kong**, Master of Library and Information Management (Sep 2021 – Dec 2022) 
+**The University of Hong Kong**, Master of Library and Information Management (Sep 2021 – Dec 2022) <br>
 • Pass with Distinction 
 • Modules include Data Science and Learning Analytics, Information Behaviour, Information System Analysis and Development, Leading and Managing in the Workplace 
 
-**Hong Kong Baptist University**, Honours Bachelor of Business Administration in e-Business Management and Information Systems (Sep 2017 – Jul 2021)
+**Hong Kong Baptist University**, Honours Bachelor of Business Administration in e-Business Management and Information Systems (Sep 2017 – Jul 2021) <br>
 • Modules include Programming for Business Applications, Database Management, Business Systems Design and Analysis
 *Award*
 • Obtained the *Prof. Xu Jialu Whole Person Education Award* and Scholarship in 2021
